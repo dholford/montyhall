@@ -1,0 +1,15 @@
+Package: montyhall
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Dylan", "Holford", , "87085665+dholford@users.noreply.github.com", role = c("aut", "cre"),
+           comment = c(ORCID = "87085665"))
+Description: Allows for the simulation of the Monty Hall game to examine which strategy
+is best.
+Depends:
+  dplyr
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
